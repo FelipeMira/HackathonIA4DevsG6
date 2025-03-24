@@ -1,0 +1,8 @@
+path: data
+train: train/images
+val: validation/images
+nc: 3
+names:
+- estilete
+- faca
+- tesoura

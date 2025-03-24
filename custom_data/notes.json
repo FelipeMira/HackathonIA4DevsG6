@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "estilete"
+    },
+    {
+      "id": 1,
+      "name": "faca"
+    },
+    {
+      "id": 2,
+      "name": "tesoura"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
